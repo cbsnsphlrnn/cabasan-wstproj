@@ -2,9 +2,9 @@
 
 A simple personal task manager built with Laravel, Blade, Tailwind CSS, and SQLite.
 
-**Project Code:** WST21-PM-2026-SF  
-**Student Name:**  
-**Course & Year:**  
+**Project Code:** WST21 -12:00-1:30pm-2026-TTH
+**Student Name:**  Sophia Lorianne Cabasan
+**Course & Year:**  BSIT-2
 **Database Used:** SQLite
 
 ## Features
