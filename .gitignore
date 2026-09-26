@@ -1,0 +1,8 @@
+/vendor/
+/.env
+/storage/*.key
+/storage/pail
+/public/hot
+/public/storage
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
